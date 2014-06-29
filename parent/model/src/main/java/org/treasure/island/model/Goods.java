@@ -2,6 +2,8 @@ package org.treasure.island.model;
 
 public class Goods {
 
+	
+	// Java representation of goods
 	private static int goodCounter = 0;
 	
 	private int goodId=0;
